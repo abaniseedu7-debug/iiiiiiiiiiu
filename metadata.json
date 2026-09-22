@@ -1,0 +1,6 @@
+{
+  "name": "JAMB 2027 MASTER",
+  "description": "Your Complete UTME Preparation System for Mathematics, Physics, Chemistry, and Use of English with CBT simulator, curriculum, syllabus, and AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
